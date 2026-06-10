@@ -11,12 +11,6 @@ Full Stack Developer from Cambodia 🇰🇭
 - 🚀 Laravel
 - ☁️ Docker & Nginx
 
-## Current Projects
-
-- Restaurant POS
-- HR Management System
-- Property Billing System
-
 ## Tech Stack
 
 Backend
