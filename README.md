@@ -1,6 +1,8 @@
 # Hi 👋 I'm On Sidet
 
-I'm a Full Stack Software Developer from Cambodia 🇰🇭
+### Full Stack Software Developer | ASP.NET Core • Angular • Laravel • Ionic
+
+I'm a Full Stack Software Developer from Cambodia 🇰🇭.
 
 ## About Me
 
